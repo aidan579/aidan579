@@ -1,5 +1,5 @@
 # Welcome to my profile!
-Hi, I’m Aidan Dyga. I'm a computer science and economics studnet at Allegheny College.
+Hi, I’m Aidan Dyga. I'm a computer science and economics student at Allegheny College.
 I am interested in technology and its intersection with finance. I love to learn new things, 
 and I am always open to collaborating on projects and ideas. I have experience in python, java,
 html, css, and javascript. You can reach me on my Linked In if you would like to connect.
